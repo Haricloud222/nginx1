@@ -6,7 +6,7 @@ systemctl enable docker
 docker pull nginx
 docker images
 git clone
-cd ngnix
+cd ngnix1
 docker file
 cat docker file
 build image
