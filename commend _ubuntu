@@ -9,7 +9,7 @@ git clone
 cd ngnix1
 docker file
 cat docker file
-build image
-run image 
+docker build -t nginx .
+docker run -d -p 80:80 nginx
 check ip 
 
